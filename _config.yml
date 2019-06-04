@@ -1,1 +1,19 @@
-theme: jekyll-theme-dinky
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: https://contentandux.org
+title: Content + UX
+author: Jess Sand
+description: > # Content + UX is a community of professionals celebrating content strategy, content itself, and its role in the user experience.
+copyright: 'Copyright &copy; 2019-present, Jess Sand. All Rights Reserved.'
+credits: 'Credits: This site design is based on Solid State by <a href="https://html5up.net/">HTML5 UP</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
