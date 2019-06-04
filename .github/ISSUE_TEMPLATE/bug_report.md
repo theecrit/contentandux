@@ -3,7 +3,7 @@ name: Bug report
 about: Please tell us if something's broken.
 title: "[Bug]"
 labels: ''
-assignees: theecrit
+assignees: ''
 
 ---
 

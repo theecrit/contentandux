@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest an improvement to the site
 title: "[Idea]"
 labels: ''
-assignees: theecrit
+assignees: ''
 
 ---
 
