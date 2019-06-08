@@ -1,5 +1,7 @@
 # Code of Conduct
 
+*This is the GitHub repo Code of Conduct. It reflects the same content as the /code-of-conduct.html file published to contentandux.org*
+
 The Content + UX Slack Group is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
 This code of conduct applies to every member of the Content + UX Slack Group. Anyone who violates this code of conduct may be sanctioned or expelled from the Content + UX Slack Group at the discretion of the ADMIN TEAM.
