@@ -1,9 +1,12 @@
+# Welcome to the Content + UX repo
+This repository houses the files for [contentandux.org](https://contentandux.org), which uses GutHub Pages with a custom domain.
+***
 <b><p align="center">Content + UX is community of professionals celebrating content strategy, content itself, and its role in the user experience. <a href="https://contentandux.org">Visit Content + UX online</a></p></b>
 <p align="center"><img src="https://github.com/theecrit/contentandux/blob/master/images/contentandux-site-thumb.png" width="400" height="auto" alt="Screenshot of very purple Content + UX home page"></p>
 
-
-# Welcome to the Content + UX repo
-This repository houses the files for [contentandux.org](https://contentandux.org), which uses GutHub Pages with a custom domain.
+***
+# Contributing
+Content + UX is an all-volunteer effort. That means we *love* contributors! Contributors are expected to adhere to our [Code of Conduct](CODE-OF-CONDUCT.md), so please do read it. 
 
 ## Report a bug
 To submit a bug report, open a [bug report issue](https://github.com/theecrit/contentandux/issues/new?assignees=&labels=&template=bug_report.md&title=%5BBug%5D).
@@ -12,7 +15,7 @@ To submit a bug report, open a [bug report issue](https://github.com/theecrit/co
 To make a suggestion or request an improvement, open a [feature request issue](https://github.com/theecrit/contentandux/issues/new?assignees=&labels=&template=feature_request.md&title=%5BIdea%5D).
 
 ## Contribute to the code
-Content + UX is an all-volunteer effort. That means we *love* contributors! Contributors are expected to adhere to our [Code of Conduct](CODE-OF-CONDUCT.md), so please do read it. We use a shared repo workflow ([read GitHub's description](https://guides.github.com/introduction/flow/)).
+We use a shared repo workflow ([read GitHub's description](https://guides.github.com/introduction/flow/)).
 
 ### Working on an issue marked `ready`
 Issues labeled `ready` should have all the info you need to begin working.
