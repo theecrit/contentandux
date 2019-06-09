@@ -23,7 +23,7 @@ Issues labeled `ready` should have all the info you need to begin working.
 
 1. Assign the issue to yourself.
 2. Clone the files to your local drive.
-3. Create a branch using the format <username>/<ChangeDescription> (e.g. *sand/UpdateMenu*)
+3. Create a branch using the format {username}/{change-description} (e.g. *theecrit/update-menu*)
 4. Make your changes at the local level.
 5. Commit your changes to the branch.
 6. Open a pull request containing a concise description of the changes you made and why you took the specific approach you did.
