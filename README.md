@@ -1,10 +1,8 @@
-# Welcome to the Content + UX repo
-**Content + UX is community of professionals celebrating content strategy, content itself, and its role in the user experience.**
-
-### [Visit Content + UX online](https://contentandux.org)
-
+<b><p align="center">Content + UX is community of professionals celebrating content strategy, content itself, and its role in the user experience. <a href="https://contentandux.org">Visit Content + UX online</a></p></b>
 <p align="center"><img src="https://github.com/theecrit/contentandux/blob/master/images/contentandux-site-thumb.png" width="400" height="auto" alt="Screenshot of very purple Content + UX home page"></p>
 
+
+# Welcome to the Content + UX repo
 This repository houses the files for [contentandux.org](https://contentandux.org), which uses GutHub Pages with a custom domain.
 
 ## Report a bug
