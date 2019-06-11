@@ -49,13 +49,19 @@ We will respect confidentiality requests for the purpose of protecting victims o
 
 ## Posting guidelines
 
-The Content + UX Slack Group is place for industry practitioners to discuss their work, share resources, and help others grow professionally. You're welcome to share your content related-links, resources, ideas, etc., provided you adhere to these guidelines:
+The Content + UX Slack Group is place for industry practitioners to discuss their work, share resources, and help others grow professionally. You're welcome to participate to your heart's content, provided you adhere to these guidelines:
+
+### Do not use a company name as your display name.
+This is a community for people, not commercial interests. You may mention your employer's name in your profile description and/or use your work email to sign up, but you may not use a company name as your display name.
 
 ### Keep your posts on-topic.
 Make sure the things you're sharing are relevant to the content community, *and that they're posted in the right channel.* A good rule of thumb is that if it's not content-specific or there’s not a direct application in a content-specific scenario, then it’s probably not ok.
 
 ### Keep your posts unique.
 Do not post repeatedly, or without context, your links to pitches, events, products, or services, or any such resources that are not specifically content-related. While not expressly prohibited, we strongly discourage cross-posting and more often than not we delete duplicate posts.
+
+### No drive-by link bombs.
+If you find something content-related worth sharing with the community, include some context. Why do you find it interesting? What did you learn from it? We're not asking for a thesis, just a little thoughtfulness. If you're posting a commercial link as your first post, don't.
 
 ### No self-promotion and no soliciting.
 Do *not* approach other members, either through public channels or private messages, with sales pitches. Do *not* mine the group for email addresses. Either of these violations may get your membership revoked immediately.
@@ -113,4 +119,4 @@ You can reach us at [hello@contentandux.org](mailto:hello@contentandux.org)
 
 ### Attribution
 
-This code of conduct is based on the [example policy from the Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Community_anti-harassment), created by the Geek Feminism community. 
+This code of conduct was last updated on *June 11, 2019* and is based on the [example policy from the Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Community_anti-harassment), created by the Geek Feminism community. 
