@@ -17,3 +17,9 @@ credits: 'Credits: This site design is based on Solid State by <a href="https://
 markdown: kramdown
 permalink: pretty
 
+
+# --------- #
+#    GA     #
+# --------- #
+
+google_analytics: "UA-46419101-3"
