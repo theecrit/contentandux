@@ -7,7 +7,7 @@ This repository houses the files for [contentandux.org](https://contentandux.org
 
 ***
 # Contributing
-Content + UX is an all-volunteer effort. That means we *love* contributors! Contributors are expected to adhere to our [Code of Conduct](CODE-OF-CONDUCT.md), so please do read it. 
+Content + UX is an all-volunteer effort. That means we *love* contributors! Contributors are expected to adhere to our [Code of Conduct](CODE-OF-CONDUCT.md), so please do read it.
 
 ## Report a bug
 To submit a bug report, open a [bug report issue](https://github.com/theecrit/contentandux/issues/new?assignees=&labels=&template=bug_report.md&title=%5BBug%5D).
@@ -18,8 +18,8 @@ To make a suggestion or request an improvement, open a [feature request issue](h
 ## Contribute to the code
 We use a shared repo workflow ([read GitHub's description](https://guides.github.com/introduction/flow/)).
 
-### Working on an issue marked `ready`
-Issues labeled `ready` should have all the info you need to begin working.
+### Working on an issue marked `ready to work on`
+Issues labeled `ready to work on` should have all the info you need to begin working.
 
 1. Assign the issue to yourself.
 2. Clone the files to your local drive.
@@ -36,9 +36,9 @@ Issues labeled `input wanted` are still being defined. All you need to contribut
 
 1. View the issue.
 2. Add a comment with your opinion.
-3. Pat yourself on the back.
+3. Give yourself a fist bump.
 
-Once consensus is reached and the Issue description has been sufficiently defined, the Issue can be relabeled to `ready`.
+Once consensus is reached and the Issue description has been sufficiently defined, the Issue can be relabeled to `ready to work on`.
   
 ## Report a security concern
-Please don't report this via Issue or other public channel. Send any security concerns to [hello@contentandux.org](mailto:hello@contentandux.org).
+Please don't report security issues via Issue or other public channel. Send any security concerns to [hello@contentandux.org](mailto:hello@contentandux.org).
