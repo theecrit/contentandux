@@ -18,8 +18,3 @@ markdown: kramdown
 permalink: pretty
 
 
-# ----------------------- #
-#    Google Analytics     #
-# ----------------------- #
-
-google_analytics: UA-46419101-3
