@@ -150,7 +150,7 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			body, input, select, textarea {
-				font-size: 1em;
+				font-size: 1.1em;
 			}
 
 		}
@@ -245,7 +245,6 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
-		font-size: 1.1em;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -267,18 +266,16 @@ input, select, textarea {
 		}
 
 		h1.major, h2.major, h3.major, h4.major, h5.major, h6.major {
-			padding-bottom: .5em;
+			padding-bottom: .3em;
 			border-bottom: solid 2px rgba(255, 255, 255, 0.125);
 		}
-
-
 
 	h2 {
 		font-size: 1.6em;
 	}
 
 	h3 {
-		font-size: 1.2em;
+		font-size: 1.4em;
 		margin-top:3em;
 	}
 
@@ -290,14 +287,12 @@ input, select, textarea {
 	h5 {
 		font-size: 1em;
 		margin-top:3em;
-}
+	}
 
 	h6 {
 		font-size: 1em;
 		margin-top:3em;
-}
-
-	@media screen and (max-width: 736px) {
+	}
 
 
 
@@ -2447,7 +2442,6 @@ input, select, textarea {
 
 		ol li {
 			padding-left: 0.25em;
-			font-size: 1.2em;
 		}
 
 	ul {
@@ -2458,8 +2452,7 @@ input, select, textarea {
 
 		ul li {
 			padding-left: 0.5em;
-			font-size: 1.2em;
-	}
+		}
 
 		ul.alt {
 			list-style: none;
