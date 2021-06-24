@@ -7,7 +7,7 @@ This repository houses the files for [contentandux.org](https://contentandux.org
 
 ***
 # Contributing
-Content + UX is an all-volunteer effort. That means we *love* contributors! Contributors are expected to adhere to our [Code of Conduct](CODE-OF-CONDUCT.md), so please do read it.
+Content + UX is an all-volunteer effort. That means we *love* contributors! Contributors are expected to adhere to our [Code of Conduct](https://contentandux.org/code-of-conduct.html), so please do read it.
 
 ## Report a bug
 To submit a bug report, open a [bug report issue](https://github.com/theecrit/contentandux/issues/new?assignees=&labels=&template=bug_report.md&title=%5BBug%5D).
